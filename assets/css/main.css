@@ -1,4 +1,5 @@
 @import url(fontawesome-all.min.css);
+/* @import url(academicons.min.css); */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 /*
 	Editorial by HTML5 UP
@@ -2076,7 +2077,7 @@ button,
   display: -ms-flex;
   display: flex;
   border-bottom: solid 5px #f56a6a;
-  padding: 6em 0 1em 0;
+  padding: 6em 0 0em 0;
   position: relative; }
   #header > * {
     -moz-flex: 1;
@@ -2090,22 +2091,23 @@ button,
     font-family: "Roboto Slab", serif;
     font-size: 1.125em; }
   #header .icons {
-    text-align: right; }
+    text-align: left; }
   @media screen and (max-width: 1680px) {
     #header {
-      padding-top: 5em; } }
+      padding-top: 2em; } }
   @media screen and (max-width: 736px) {
     #header {
       padding-top: 6.5em; }
       #header .logo {
         font-size: 1.25em;
-        margin: 0; }
+        margin: 0; } */
       #header .icons {
         height: 5em;
         line-height: 5em;
         position: absolute;
         right: -0.5em;
-        top: 0; } }
+        top: 0; } 
+      }
 
 /* Banner */
 #banner {
