@@ -2292,10 +2292,6 @@ input, select, textarea {
 						top: 0 !important;
 					}
 
-						ul.social li a:before {
-							background-color: transparent !important;
-						}
-
 		/* Actions */
 
 			ul.actions {
@@ -2356,13 +2352,13 @@ input, select, textarea {
 		/* Nav */
 
 			#nav {
-				height: 44px;
+				height: 80px;
 				line-height: 44px;
 			}
 
 				#nav a {
 					padding: 0 0.75em;
-					height: inherit;
+					height: 0em;
 					line-height: inherit;
 					border-radius: 0;
 				}
