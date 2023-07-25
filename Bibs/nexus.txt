@@ -1,0 +1,9 @@
+@article{moglen2023nexus,
+  title={A nexus approach to infrastructure resilience planning under uncertainty},
+  author={Moglen, Rachel L and Barth, Julius and Gupta, Shagun and Kawai, Eiji and Klise, Katherine and Leibowicz, Benjamin D},
+  journal={Reliability Engineering \& System Safety},
+  volume={230},
+  pages={108931},
+  year={2023},
+  publisher={Elsevier}
+}
