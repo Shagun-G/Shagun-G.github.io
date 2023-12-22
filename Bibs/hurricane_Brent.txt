@@ -1,0 +1,8 @@
+@inproceedings{austgen2022stochastic,
+  title={Stochastic Hurricane Flood Mitigation for Power Grid Resilience},
+  author={Austgen, Brent and Gupta, Shagun and Kutanoglu, Erhan and Hasenbein, John},
+  booktitle={2022 IEEE Power \& Energy Society General Meeting (PESGM)},
+  pages={1--5},
+  year={2022},
+  organization={IEEE}
+}
