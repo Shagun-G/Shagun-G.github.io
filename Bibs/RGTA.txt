@@ -1,6 +1,8 @@
-@article{berahas2023flexible,
-  title={A Flexible Gradient Tracking Algorithmic Framework for Decentralized Optimization},
+@article{berahas2025flexible,
+  title={A flexible gradient tracking algorithmic framework for decentralized optimization},
   author={Berahas, Albert S and Bollapragada, Raghu and Gupta, Shagun},
-  journal={arXiv preprint arXiv:2312.06814},
-  year={2023}
+  journal={Computational Optimization and Applications},
+  pages={1--32},
+  year={2025},
+  publisher={Springer}
 }

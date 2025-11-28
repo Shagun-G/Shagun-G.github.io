@@ -1,6 +1,10 @@
-@article{berahas2023balancing,
-  title={Balancing Communication and Computation in Gradient Tracking Algorithms for Decentralized Optimization},
+@article{berahas2024balancing,
+  title={Balancing communication and computation in gradient tracking algorithms for decentralized optimization},
   author={Berahas, Albert S and Bollapragada, Raghu and Gupta, Shagun},
-  journal={arXiv preprint arXiv:2303.14289},
-  year={2023}
+  journal={Journal of Optimization Theory and Applications},
+  volume={203},
+  number={3},
+  pages={2954--2987},
+  year={2024},
+  publisher={Springer}
 }

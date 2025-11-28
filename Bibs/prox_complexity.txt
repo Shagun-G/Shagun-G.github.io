@@ -1,0 +1,6 @@
+@article{bollapragada2025convergence,
+  title={On the Convergence and Complexity of Proximal Gradient and Accelerated Proximal Gradient Methods under Adaptive Gradient Estimation},
+  author={Bollapragada, Raghu and Gupta, Shagun},
+  journal={arXiv preprint arXiv:2507.14479},
+  year={2025}
+}
