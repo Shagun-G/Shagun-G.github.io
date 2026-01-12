@@ -1,0 +1,6 @@
+@article{berahas2025retrospective,
+  title={Retrospective Approximation Sequential Quadratic Programming for Stochastic Optimization with General Deterministic Nonlinear Constraints},
+  author={Berahas, Albert S and Bollapragada, Raghu and Gupta, Shagun},
+  journal={arXiv preprint arXiv:2505.19382},
+  year={2025}
+}
