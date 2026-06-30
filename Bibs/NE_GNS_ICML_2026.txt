@@ -1,6 +1,8 @@
-@article{naganuma2026adaptive,
+@inproceedings{
+  naganuma2026adaptive,
   title={Adaptive Batch Sizes Using Non-Euclidean Gradient Noise Scales for Stochastic Sign and Spectral Descent},
-  author={Naganuma, Hiroki and Gupta, Shagun and Briki, Youssef and Mitliagkas, Ioannis and Rish, Irina and Raman, Parameswaran and Shi, Hao-Jun Michael},
-  journal={arXiv preprint arXiv:2602.03001},
-  year={2026}
+  author={Hiroki Naganuma and Shagun Gupta and Youssef Briki and Ioannis Mitliagkas and Irina Rish and Parameswaran Raman and Hao-Jun Michael Shi},
+  booktitle={Forty-third International Conference on Machine Learning},
+  year={2026},
+  url={https://openreview.net/forum?id=XMSaWRpEPS}
 }
